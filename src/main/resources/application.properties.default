@@ -1,0 +1,11 @@
+server.port=9090
+server.servlet.context-path=/api
+
+# MongoDB
+spring.data.mongodb.host=localhost
+spring.data.mongodb.port=27017
+spring.data.mongodb.database=alaya
+spring.data.mongodb.repositories.type=auto
+
+#spring.security.user.name=admin
+#spring.security.user.password=admin
